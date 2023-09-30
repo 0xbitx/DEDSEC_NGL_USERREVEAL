@@ -12,12 +12,13 @@
 </p>
 
 ## INSTALLATION 
-### Forking and Deploying a GitHub Repository as a GitHub Pages Site
 
-This tutorial will guide you through the process of forking a GitHub repository and deploying it as a GitHub Pages site. GitHub Pages allows you to host a website directly from your GitHub repository.
+### Step 1: cloning the Repository
 
-### Step 1: Fork the Repository
-1. Click the "Fork" button in the top right corner of this page. This action will create a copy of the repository in your GitHub account.
+* git clone https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL.git
+* cd DEDSEC_NGL_USERREVEAL
+* pip3 install pystyle pycryptodome tabulate
+* python3 dedsec_ngl_userreveal.py
 
 ### Step 2: Set Up GitHub Pages
 
