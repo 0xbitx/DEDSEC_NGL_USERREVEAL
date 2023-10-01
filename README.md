@@ -21,8 +21,8 @@
 * sudo python3 dedsec_ngl_userreveal.py
 
 ### Step 2 Uploading ngl_page to your github account
-* git init
 * cd ngl_page
+* git init
 * git add css index.html
 * git commit -m "NGL page UPDATE"
 * git remote add origin "your git link"
