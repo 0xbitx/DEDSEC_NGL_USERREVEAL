@@ -15,7 +15,7 @@
 
     * git clone https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL.git
     * cd DEDSEC_NGL_USERREVEAL
-    * sudo pip3 install pystyle pycryptodome tabulate alive-progress
+    * sudo pip3 install pystyle tabulate alive-progress
     * sudo python3 dedsec_ngl_userreveal.py
 
 ### HOW TO GET WEBHOOK
