@@ -18,15 +18,6 @@
     * sudo pip3 install pystyle pycryptodome tabulate alive-progress
     * sudo python3 dedsec_ngl_userreveal.py
 
-### HOW TO GET GITHUB TOKEN
-
-     1. goto this link https://github.com/settings/tokens
-     2. click (Generate New token) then select (Generate New token (classic))
-     3. type NOTE: UPLOAD NGL PAGE
-     4. select Expiration: No Expiration
-     5. tick under Scopes (repo, user)
-     6. click (Generate Token) then copy the token
-
 ### HOW TO GET WEBHOOK
     1. [Select a Server] First, choose the Discord server where you want to create the webhook. You need appropriate permissions within that server.
     2. [Server Settings] Click on the server name to open the server settings.
