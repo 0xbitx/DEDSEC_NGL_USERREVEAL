@@ -16,7 +16,7 @@
     * git clone https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL.git
     * cd DEDSEC_NGL_USERREVEAL
     * sudo pip3 install pystyle tabulate alive-progress
-    * sudo python3 dedsec_ngl_userreveal.py
+    * sudo ./dedsec_ngl_userreveal
 
 ### HOW TO GET WEBHOOK
     1. [Select a Server] First, choose the Discord server where you want to create the webhook. You need appropriate permissions within that server.
