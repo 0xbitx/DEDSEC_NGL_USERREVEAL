@@ -5,6 +5,8 @@
 <h1 align="center"> DEDSEC_NGL_USERREVEAL</h1>
 <h4 align="center">DEDSEC_NGL_USERREVEAL is an NGL tool designed to capture a front camera image, along with device information, and the precise location of the user. It then automatically sends this data to your Discord server.</h4>
 
+## DESCRIPTION
+DEDSEC_NGL_USERREVEAL is a Linux-based tool capable of generating a personalized NGL profile page. This page captures a person's face, collects their smartphone details, and pinpoints their exact location when the user starts sending anonymous messages. The custom page, created by 0xbit, serves as a unique profile page for the user, equipped with the capability to extract data. Notably, it includes only an input field and a send button, allowing users to send anonymous messages to the page owner. It's important to note that the user information is automatically transmitted to the Discord server assigned by the owner of the page.
 
 ## SCREENSHOT 
 <p align="center">
