@@ -10,7 +10,7 @@ DEDSEC_NGL_USERREVEAL is a Linux-based tool capable of generating a personalized
 
 ## SCREENSHOT 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL/blob/main/banner.png", width="500", height="500">
+<img src="https://i.imgur.com/e0xArJs.png", width="400", height="400">
 </p>
 
 ## INSTALLATION 
