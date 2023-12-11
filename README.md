@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL/blob/main/banner2.png", width="500", height="500">
+<img src="https://cdn-icons-png.flaticon.com/512/9962/9962038.png", width="300", height="300">
 </p>
 <h1 align="center"> DEDSEC_NGL_USERREVEAL</h1>
 <h4 align="center">DEDSEC_NGL_USERREVEAL is an NGL tool designed to capture a front camera image, along with device information, and the precise location of the user. It then automatically sends this data to your Discord server.</h4>
