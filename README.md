@@ -14,7 +14,6 @@ DEDSEC_NGL_USERREVEAL is a Linux-based tool capable of generating a personalized
 </p>
 
 ## INSTALLATION 
-
     * git clone https://github.com/0xbitx/DEDSEC_NGL_USERREVEAL.git
     * cd DEDSEC_NGL_USERREVEAL
     * chmod +x dedsec_ngl_userreveal
